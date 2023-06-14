@@ -1,0 +1,1 @@
+set path=%path%D:\Lng\NodeJS\nodejs
